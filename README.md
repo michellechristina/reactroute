@@ -10,12 +10,14 @@ The front-end React app will auto-reload as it's updated via webpack dev server,
 
 Start by installing front and backend dependencies. While in this directory, run the following commands:
 
+
 ```
 yarn install
 cd client
 yarn install
 cd ..
 ``
+
 
 After both installations complete, run the following command in your terminal:
 
